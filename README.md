@@ -1,2 +1,2 @@
-#School
+# School
 School website. First deployment
